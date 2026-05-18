@@ -1,2 +1,17 @@
-# MonsterBreedingSimulator
-A procedural Python GUI monster breeding simulator with detailed mating mechanics, heritable genital traits, tracked cum production, pregnancy system, and womb capacity. Built with tkinter.
+# Monster Breeding Simulator
+
+A fully procedural Python GUI monster breeding game featuring:
+
+- Detailed animal-style mating mechanics
+- Heritable genital traits (knots, barbs, flares, etc.)
+- Tracked cum production
+- Pregnancy system with gestation and litters
+- Womb capacity mechanics
+- Rich procedural descriptions
+
+## How to Run
+```bash
+python3 monster_breeder.py
+```
+
+Built with tkinter. No external dependencies needed.
